@@ -1,0 +1,7 @@
+{
+  "name": "BSSM - Benefício de Saúde Santa Marta",
+  "description": "Uma plataforma moderna para gestão de benefícios de saúde hospitalar, permitindo que gestores administrem usuários e planos, enquanto associados acessam suas carteirinhas digitais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
